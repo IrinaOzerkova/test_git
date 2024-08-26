@@ -1,2 +1,4 @@
 It is first file for git.
 String of master branch.
+String of new branch,
+
